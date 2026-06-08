@@ -168,3 +168,7 @@ Let's make intelligent trading more accessible, transparent, and controllable.
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Financial-Trading-Agents&type=date&legend=bottom-right" />
  </picture>
 </a>
+
+## 🔐 Agent Identity & Trust
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Trust scoring and wallet identity verification for financial trading AI agents. Verify agent wallet identity and trust score before allowing autonomous trade execution or access to premium market data APIs via x402. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
